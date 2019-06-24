@@ -62,4 +62,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise', '~> 4.6', '>= 4.6.2'
 gem 'friendly_id', '~> 5.1'
-gem 'slug', '~> 0.8.0' 
+
